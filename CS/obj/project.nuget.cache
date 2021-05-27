@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UK0P424BXhQf8cfFWbW2QaBsQiHuB0wm37SHKSyjPmjN6MG+N95ibobtZsXodGjJ9zXOyO8qdjZFY5jeGQHWxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xgamer\\Desktop\\Confinement 2020\\MLP\\CS\\CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xgamer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\bin\Debug\netcoreapp3.1\CS.exe
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\bin\Debug\netcoreapp3.1\CS.deps.json
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.json
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.dev.json
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\bin\Debug\netcoreapp3.1\CS.dll
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\bin\Debug\netcoreapp3.1\CS.pdb
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.csprojAssemblyReference.cache
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfoInputs.cache
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfo.cs
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.csproj.CoreCompileInputs.cache
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.dll
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.pdb
+C:\Users\Xgamer\Desktop\Confinement 2020\MLP\CS\obj\Debug\netcoreapp3.1\CS.genruntimeconfig.cache
